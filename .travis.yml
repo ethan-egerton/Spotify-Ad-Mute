@@ -12,3 +12,5 @@ python:
 install:
   - pip install SwSpotify
   - pip install pycaw
+script:
+  - AdMute.pyw
