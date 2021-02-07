@@ -1,7 +1,7 @@
 ## Spotify-Ad-Mute
 This script mutes ads on spotify, runs as python background process. **Windows only**  
 
-#### Requirements
+### Requirements
 Python 3.5+  
 pip requires:
  - pip install SwSpotify
